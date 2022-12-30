@@ -16,7 +16,7 @@ body {
 }
 
 .card {
-  height: 60vh;
+  height: 65vh;
   padding: 20px;
   box-shadow: 4px -4px 8px 3px rgba(0,0,0,.30196078431372547);
   background: hsla(0,0%,100%,.12941176470588237);
