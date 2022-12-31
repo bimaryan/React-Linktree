@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
       </div>
-      <ParticlesBg type="thick" bg={true} />
+      <ParticlesBg type="polygon" bg={true} />
     </div>
   );
 }
