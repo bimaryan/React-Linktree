@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
       </div>
-      <ParticlesBg type="polygon" bg={true} />
+      <ParticlesBg type="line_linked" bg={true} />
     </div>
   );
 }
