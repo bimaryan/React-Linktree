@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
       </div>
-      <ParticlesBg type="line_linked" bg={true} />
+      <ParticlesBg type="think" bg={true} />
     </div>
   );
 }
