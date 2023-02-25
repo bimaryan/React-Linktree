@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
       </div>
-      <ParticlesBg type="think" bg={true} />
+      <ParticlesBg type="thick" bg={true} />
     </div>
   );
 }
