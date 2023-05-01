@@ -1,9 +1,18 @@
-import React, { Component } from 'react'
-import ParticlesBg from 'particles-bg'
+import React, { Component } from 'react';
+import ParticlesBg from 'particles-bg';
 import { FiInstagram, FiYoutube} from 'react-icons/fi';
-import {FaTiktok} from 'react-icons/fa'
-import {CgWebsite} from 'react-icons/cg'
+import {FaTiktok} from 'react-icons/fa';
+import {CgWebsite} from 'react-icons/cg';
+import NotFound from './src/NotFound';
 import './App.css';
+import { Route } from 'react-router-dom';
+
+const router = createBrowserRouter (
+  createRoutesFromElements(
+    <Route path='*' element={< NotFound/>}>
+    </Route>
+  )
+)
 
 function App() {
   return (
