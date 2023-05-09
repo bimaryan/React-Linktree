@@ -16,8 +16,6 @@ function App() {
               <img className="card-avatar" src="/logo192.png" alt="avatar"/>
             </div>
           </div>
-          <br/>
-          <br/>
           <div className='card-title'>
             <h1>@bima_ryan23</h1>
             <span className='subtitle'>Programmer | Content Creator.</span><br/>
