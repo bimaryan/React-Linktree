@@ -16,6 +16,7 @@ function App() {
               <img className="card-avatar" src="/logo192.png" alt="avatar"/>
             </div>
           </div>
+          <br/>
           <div className='card-title'>
             <h1>@bima_ryan23</h1>
             <span className='subtitle'>Programmer | Content Creator.</span><br/>
@@ -41,7 +42,7 @@ function App() {
 								<span>Tiktok</span>
 							</div>
 						</a>
-            <a target="_blank" rel="noreferrer" href="https://crazygamedev.bimaryan.repl.co">
+            <a target="_blank" rel="noreferrer" href="https://crazygamedev.netlify.app/">
 							<div className="btn-action">
 								<CgWebsite className='icon' />
 								<span>My Website</span>
